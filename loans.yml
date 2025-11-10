@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to EazyBank loans related local APIs"
+  contactDetails:
+    name: "Fabio Carvajal - Developer"
+    email: "fabtuscamacho@hotmail.com"
+  onCallSupport:
+    - (11) 4002-8922
+    - (11) 0800 777 7000

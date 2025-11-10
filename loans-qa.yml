@@ -1,0 +1,8 @@
+loans:
+  message: "Welcome to EazyBank loans QA environment APIs"
+  contactDetails:
+    name: "Fabio Carvajal - QA Tester"
+    email: "fabtuscamacho@hotmail.com"
+  onCallSupport:
+    - (11) 4002-8922
+    - (11) 0800 777 7000

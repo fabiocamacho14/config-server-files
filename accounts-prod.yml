@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to EazyBank accounts related production APIs"
+  contactDetails:
+    name: "Fabio Carvajal - Production Developer"
+    email: "fabtuscamacho@hotmail.com"
+  onCallSupport:
+    - (11) 1234-5678
+    - (11) 0800 2015 020

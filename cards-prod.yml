@@ -1,0 +1,8 @@
+cards:
+  message: "Welcome to EazyBank cards related production APIs"
+  contactDetails:
+    name: "Fabio Carvajal - Production Developer"
+    email: "fabtuscamacho@hotmail.com"
+  onCallSupport:
+    - (11) 1234-5678
+    - (11) 0800 2015 020

@@ -1,0 +1,8 @@
+accounts:
+  message: "Welcome to EazyBank accounts related local QA APIs"
+  contactDetails:
+    name: "Fabio Carvajal - QA analyst"
+    email: "fabtuscamacho@hotmail.com"
+  onCallSupport:
+    - (11) 3983-2191
+    - (11) 0800 2014 007
