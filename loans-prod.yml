@@ -1,7 +1,7 @@
 loans:
   message: "Welcome to EazyBank loans production environment APIs"
   contactDetails:
-    name: "Fabio Carvajal - Production Developer Sr."
+    name: "Fabio Carvajal - Production Developer"
     email: "{cipher}686bfde4695aeebcb847267960ec414beab77c6eee4e21d6561d4452c04b3698f703ffd2e877f66bfae5fa23fdc7333d"
   onCallSupport:
     - (11) 4002-8922
